@@ -19,3 +19,9 @@
 	background: rgba(255,255,255, .0);
 }
  
+
+#web_bg{
+  background: url(https://3f1a237e.img-1st.pages.dev/pic/%E3%83%88%E3%83%A9%E3%82%A4%E3%83%A1%E3%83%A9%E3%82%A4%E3%81%A8%E8%87%A5%E3%81%97%E3%81%9F%E8%8A%B1_67224883.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
