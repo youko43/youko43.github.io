@@ -1792,6 +1792,9 @@ figure.highlight pre .javascript .function {
   -ms-transform: rotate(-90deg);
   transform: rotate(-90deg);
 }
+#article-container .highlight-tools > .macStyle {
+  padding: 0;
+}
 #article-container .highlight-tools .code-lang {
   -webkit-box-flex: 1;
   -moz-box-flex: 1;
@@ -1842,54 +1845,6 @@ figure.highlight pre .javascript .function {
 }
 #article-container .gist table td {
   border: none;
-}
-#article-container figure.highlight {
-  margin: 0 0 24px;
-  border-radius: 7px;
-  -webkit-box-shadow: 0 5px 10px 0 rgba(15,17,26,0.4);
-  box-shadow: 0 5px 10px 0 rgba(15,17,26,0.4);
-  -webkit-transform: translateZ(0);
-}
-#article-container figure.highlight .highlight-tools .macStyle {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: box;
-  display: flex;
-}
-#article-container figure.highlight .highlight-tools .macStyle > * {
-  margin-right: 8px;
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-}
-#article-container figure.highlight .highlight-tools .macStyle > :last-child {
-  margin-right: 5px;
-}
-#article-container figure.highlight .highlight-tools .macStyle .mac-close {
-  background: #fc625d;
-}
-#article-container figure.highlight .highlight-tools .macStyle .mac-minimize {
-  background: #fdbc40;
-}
-#article-container figure.highlight .highlight-tools .macStyle .mac-maximize {
-  background: #35cd4b;
-}
-#article-container figure.highlight .highlight-tools > :nth-child(2) {
-  -webkit-box-ordinal-group: 8;
-  -moz-box-ordinal-group: 8;
-  -o-box-ordinal-group: 8;
-  -ms-flex-order: 8;
-  -webkit-order: 8;
-  order: 8;
-}
-#article-container figure.highlight .highlight-tools.closed .expand {
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  transform: rotate(90deg);
 }
 #article-container .code-expand-btn {
   position: absolute;
@@ -2476,6 +2431,19 @@ figure.highlight pre .javascript .function {
   position: relative;
   overflow: hidden;
   margin-bottom: 20px;
+  display: inline-block;
+  width: calc(100% / 2 - 8px);
+  vertical-align: top;
+}
+@media screen and (max-width: 768px) {
+  #recent-posts .recent-post-item {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 2000px) {
+  #recent-posts .recent-post-item {
+    width: calc(100% / 3 - 8px);
+  }
 }
 #recent-posts .recent-post-item:hover .post-bg {
   -webkit-transform: scale(1.1);
@@ -2491,16 +2459,13 @@ figure.highlight pre .javascript .function {
 #recent-posts .recent-post-item .post_cover {
   overflow: hidden;
   width: 100%;
-  height: 17em;
+  height: 230px;
 }
-#recent-posts .recent-post-item .post_cover:before {
-  position: absolute;
-  z-index: 1;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(18,18,18,0.4);
-  content: '';
-  backdrop-filter: blur(3px);
+@media screen and (max-width: 768px) {
+  #recent-posts .recent-post-item .post_cover {
+    width: 100%;
+    height: 230px;
+  }
 }
 #recent-posts .recent-post-item .post_cover .post-bg {
   z-index: -4;
@@ -2513,20 +2478,6 @@ figure.highlight pre .javascript .function {
     padding: 20px 20px 30px;
     width: 100%;
   }
-}
-#recent-posts .recent-post-item >.recent-post-info:not(.no-cover) {
-  position: absolute;
-  top: 50%;
-  z-index: 2;
-  width: 100%;
-  color: var(--text-highlight-color);
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  -o-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  --text-highlight-color: #fff;
-  --card-meta: rgba(255,255,255,0.7);
 }
 #recent-posts .recent-post-item >.recent-post-info.no-cover {
   padding: 35px 30px;
