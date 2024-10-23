@@ -1,27 +1,28 @@
 /* 文章页背景 */
 .layout_post>#post {
     /* 以下代表透明度为0.7 可以自行修改*/
-    background: rgba(255,255,255,.7);
+    background: rgba(216, 214, 214, 0.486);
 }
  
 /* 所有页面背景 */
 #aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{
     /* 以下代表透明度为0.7 */
-    background: rgba(255,255,255,.7);
+    background: #ffffffce;
 }
 /*侧边卡片的透明度 */
 :root {
-  --card-bg: rgba(255, 255, 255, .7);
+  --card-bg: rgba(235, 228, 228, 0.877);
 }
 /* 页脚透明 */
 #footer {
 	/* 以下代表透明度为0.7 */
-	background: rgba(255,255,255, .0);
+	background: rgba(248, 246, 246, 0.137);
 }
  
-
 #web_bg{
-  background: url(https://3f1a237e.img-1st.pages.dev/pic/%E3%83%88%E3%83%A9%E3%82%A4%E3%83%A1%E3%83%A9%E3%82%A4%E3%81%A8%E8%87%A5%E3%81%97%E3%81%9F%E8%8A%B1_67224883.jpg);
+  background: url(https://img-2st.pages.dev/pic/トライメライと臥した花_67224883.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+
