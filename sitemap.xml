@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blogyouko.cfd/music/index.html</loc>
-    
-    <lastmod>2025-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blogyouko.cfd/2025/03/08/test/</loc>
-    
-    <lastmod>2025-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blogyouko.cfd/2024/10/23/butterfly%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</loc>
-    
-    <lastmod>2025-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blogyouko.cfd/Gallery/index.html</loc>
     
     <lastmod>2025-03-08</lastmod>
@@ -39,6 +12,15 @@
   
   <url>
     <loc>http://blogyouko.cfd/Gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2025-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogyouko.cfd/Gallery/exg/index.html</loc>
     
     <lastmod>2025-03-08</lastmod>
     
@@ -65,7 +47,25 @@
   </url>
   
   <url>
-    <loc>http://blogyouko.cfd/Gallery/exg/index.html</loc>
+    <loc>http://blogyouko.cfd/music/index.html</loc>
+    
+    <lastmod>2025-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogyouko.cfd/2025/03/08/test/</loc>
+    
+    <lastmod>2025-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogyouko.cfd/2024/10/23/butterfly%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</loc>
     
     <lastmod>2025-03-08</lastmod>
     
