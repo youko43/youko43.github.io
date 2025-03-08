@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blogyouko.cfd/music/index.html</loc>
+    
+    <lastmod>2025-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blogyouko.cfd/2025/03/08/test/</loc>
     
     <lastmod>2025-03-08</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://blogyouko.cfd/Gallery/index.html</loc>
+    <loc>http://blogyouko.cfd/Gallery/wallpaper/index.html</loc>
     
     <lastmod>2025-03-08</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://blogyouko.cfd/Gallery/wallpaper/index.html</loc>
+    <loc>http://blogyouko.cfd/Gallery/index.html</loc>
     
     <lastmod>2025-03-08</lastmod>
     
@@ -86,15 +95,6 @@
     <loc>http://blogyouko.cfd/2024/12/31/%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
     
     <lastmod>2025-03-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blogyouko.cfd/movies/index.html</loc>
-    
-    <lastmod>2024-10-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
