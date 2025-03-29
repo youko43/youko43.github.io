@@ -1,5 +1,6 @@
-http://blogyouko.cfd/Gallery/index.html
+http://blogyouko.cfd/2025/03/29/%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A%E6%96%B9%E6%A1%88%EF%BC%9ACloudflare-R2-Picgo/
 http://blogyouko.cfd/Gallery/wallpaper/index.html
+http://blogyouko.cfd/Gallery/index.html
 http://blogyouko.cfd/Gallery/exg/index.html
 http://blogyouko.cfd/2024/10/24/Markdown%E8%AF%AD%E6%B3%95/
 http://blogyouko.cfd/2024/10/24/%E5%BE%AE%E7%94%B5%E5%AD%90%E7%84%8A%E6%8E%A5%E5%A4%8D%E4%B9%A0/
@@ -16,5 +17,6 @@ http://blogyouko.cfd/link/index.html
 http://blogyouko.cfd/tags/index.html
 http://blogyouko.cfd/
 http://blogyouko.cfd/tags/Documents/
+http://blogyouko.cfd/tags/%E5%9B%BE%E5%BA%8A/
 http://blogyouko.cfd/tags/%E4%B8%AA%E4%BA%BA%E6%96%87%E6%A1%A3/
 http://blogyouko.cfd/categories/%E8%AF%BE%E7%A8%8B%E5%A4%8D%E4%B9%A0/

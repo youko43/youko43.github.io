@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blogyouko.cfd/Gallery/index.html</loc>
+    <loc>http://blogyouko.cfd/2025/03/29/%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A%E6%96%B9%E6%A1%88%EF%BC%9ACloudflare-R2-Picgo/</loc>
     
-    <lastmod>2025-03-08</lastmod>
+    <lastmod>2025-03-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +12,15 @@
   
   <url>
     <loc>http://blogyouko.cfd/Gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2025-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogyouko.cfd/Gallery/index.html</loc>
     
     <lastmod>2025-03-08</lastmod>
     
@@ -148,7 +157,7 @@
 
   <url>
     <loc>http://blogyouko.cfd/</loc>
-    <lastmod>2025-03-08</lastmod>
+    <lastmod>2025-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,14 +165,21 @@
   
   <url>
     <loc>http://blogyouko.cfd/tags/Documents/</loc>
-    <lastmod>2025-03-08</lastmod>
+    <lastmod>2025-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blogyouko.cfd/tags/%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2025-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blogyouko.cfd/tags/%E4%B8%AA%E4%BA%BA%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2025-03-08</lastmod>
+    <lastmod>2025-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -172,7 +188,7 @@
   
   <url>
     <loc>http://blogyouko.cfd/categories/%E8%AF%BE%E7%A8%8B%E5%A4%8D%E4%B9%A0/</loc>
-    <lastmod>2025-03-08</lastmod>
+    <lastmod>2025-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
